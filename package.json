@@ -1,0 +1,19 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Websocket tutorial through a basic chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alksandar/chatApp.git"
+  },
+  "author": "Aleksandar-Sasa Calic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alksandar/chatApp/issues"
+  },
+  "homepage": "https://github.com/alksandar/chatApp#readme"
+}
